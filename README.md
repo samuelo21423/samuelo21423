@@ -111,7 +111,7 @@ Outside of work I build projects across game dev, web apps, and cloud — whatev
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/samuelo21423/samuelo21423/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/samuelo21423/samuelo21423/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
