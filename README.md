@@ -34,9 +34,9 @@ Always      : Building something, breaking something, fixing it better
 
 ## 👨‍💻 About Me
 
-I'm a software engineer with a passion for building things that are **reliable, scalable, and actually work** — not just in development, but in production too. I care deeply about software quality: writing clean code is only half the job; making sure it holds up under real conditions is the other half.
+I'm a software engineer with a passion for building things that are **reliable, scalable, and actually work** not just in development, but in production too. I care deeply about software quality: writing clean code is only half the job; making sure it holds up under real conditions is the other half.
 
-My work sits at the crossroads of **software engineering**, **quality assurance**, and **cloud platforms**. I've built everything from 2D games and full-stack web apps to automated cloud platform solutions — and I'm always looking for the next interesting problem to solve.
+My work sits at the crossroads of **software engineering**, **quality assurance**, and **cloud platforms**. I've built everything from 2D games and full-stack web apps to automated cloud platform solutions, and I'm always looking for the next interesting problem to solve.
 
 Currently working in the quality engineering space at **ServiceNow Dublin**, where I work on large-scale app certification, release automation, and building internal tooling that makes engineering teams faster. Outside of that I'm deepening my knowledge in **DevOps**, **cloud architecture**, and **AI-powered developer tooling**.
 
