@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:06b6d4&height=200&section=header&text=Samuel+Ogwu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software+Engineer+%7C+Quality+Engineering+%7C+Cloud+%26+DevOps&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Samuel+Ogwu+%F0%9F%91%8B;Software+Engineer;Quality+Engineer;Building+things+that+work." alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=06B6D4&center=true&vCenter=true&width=600&lines=Software+Quality+%7C+Cloud+%7C+DevOps+%7C+AI%2FML+%7C+Automation" alt="Subtitle"/>
 </p>
 
 <p align="center">
@@ -117,11 +121,6 @@ Currently working in the quality engineering space at **ServiceNow Dublin**, whe
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelo21423&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=ffffff&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelo21423&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=samuelo21423&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=06b6d4&currStreakLabel=ffffff"/>
 </p>
 
@@ -163,10 +162,10 @@ Currently working in the quality engineering space at **ServiceNow Dublin**, whe
 I'm always open to interesting conversations, collaborations, or opportunities. Whether you want to talk tech, work on something together, or just connect — feel free to reach out.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/samuel-ogwu-361655334">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:samuelo21423@gmail.com">
     <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
