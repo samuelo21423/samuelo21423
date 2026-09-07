@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:06b6d4&height=200&section=header&text=Samuel%20Ogwu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Quality%20Engineering%20%E2%80%A2%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:06b6d4&height=200&section=header&text=Samuel+Ogwu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software+Engineer+%7C+Quality+Engineering+%7C+Cloud+%26+DevOps&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/samuel-ogwu-361655334/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:samuelo21423@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/samuelo21423">
@@ -19,8 +19,8 @@
 
 ```yaml
 Name        : Samuel Ogwu
-Role        : Software Engineer  |  Quality Engineer
-Currently   : @ ServiceNow Dublin
+Role        : Software Engineer  |  Software Quality Engineer
+Currently   : @ ServiceNow
 Interests   : Software Quality  ·  Cloud  ·  DevOps  ·  AI/ML  ·  Automation
 Certs       : ServiceNow CSA ✅  |  CAD 🔄 in progress
 Always      : Building something, breaking something, fixing it better
@@ -30,23 +30,26 @@ Always      : Building something, breaking something, fixing it better
 
 ## 👨‍💻 About Me
 
-I'm a software engineer with a strong focus on **quality engineering**, **automation**, and **building things that actually work at scale**. I care about clean systems, reliable software, and tooling that makes developers' lives easier.
+I'm a software engineer with a passion for building things that are **reliable, scalable, and actually work** — not just in development, but in production too. I care deeply about software quality: writing clean code is only half the job; making sure it holds up under real conditions is the other half.
 
-Outside of work I build projects across game dev, web apps, and cloud — whatever holds my attention. Currently levelling up in **DevOps**, **cloud infrastructure**, and **AI-powered tooling**.
+My work sits at the crossroads of **software engineering**, **quality assurance**, and **cloud platforms**. I've built everything from 2D games and full-stack web apps to automated cloud platform solutions — and I'm always looking for the next interesting problem to solve.
+
+Currently working in the quality engineering space at **ServiceNow Dublin**, where I work on large-scale app certification, release automation, and building internal tooling that makes engineering teams faster. Outside of that I'm deepening my knowledge in **DevOps**, **cloud architecture**, and **AI-powered developer tooling**.
+
+> *I believe good engineers don't just write features — they build confidence in their software.*
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" width="45" height="45" title="Processing"/>
-  <!-- Tools & Infra -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
@@ -63,7 +66,6 @@ Outside of work I build projects across game dev, web apps, and cloud — whatev
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
 ---
@@ -71,47 +73,67 @@ Outside of work I build projects across game dev, web apps, and cloud — whatev
 ## 🚀 Featured Projects
 
 ### 🎮 [SeaWorld Plastic Collector](https://github.com/samuelo21423/SeaWorld-Plastic-Collector)
-> 2D game built in **Processing** — players collect ocean plastic while dodging marine life, with an oxygen-based timer and score system.
-`Processing` `Game Dev` `OOP`
+> A fully playable **2D game** built from scratch in Processing. Players navigate the ocean collecting plastic waste while dodging marine life — with an oxygen-based countdown, score tracking, and increasing difficulty. A project that pushed my understanding of game loops, collision detection, and real-time state management.
 
-### 🌦️ [Weather App](https://github.com/samuelo21423/Weather-App)
-> Real-time weather dashboard displaying temperature, humidity, UV index, and wind speed via live API integration.
-`JavaScript` `HTML/CSS` `REST API`
+`Processing` `Game Dev` `OOP` `Physics`
 
-### 🍅 [Pomodoro Timer](https://github.com/samuelo21423/Pomodoro-Timer)
-> Clean, minimal productivity timer implementing the Pomodoro Technique.
-`JavaScript` `HTML` `CSS`
-
-### 🧠 [Therapist Client Management System](https://github.com/samuelo21423/Therapist-Client-Management-System)
-> Full-stack client management application for therapist workflows.
-`JavaScript` `Full Stack`
-
-### ✈️ [Travel Blog App](https://github.com/samuelo21423/Travel-Blog-App)
-> Dynamic travel journaling application.
-`JavaScript` `Web App`
+---
 
 ### ☁️ [ServiceNow Loaner Management System](https://github.com/samuelo21423/servicenow-loaner-management-system)
-> Scoped cloud platform application automating equipment loan requests end-to-end — replacing manual email workflows with a fully automated lifecycle solution.
-`ServiceNow` `Cloud` `Automation` `Low-code`
+> A scoped cloud platform application that fully automates equipment loan management — replacing a manual, email-based process with an end-to-end automated workflow covering requests, approvals, tracking, and returns. Built on the ServiceNow platform with custom business logic and a user-friendly portal interface.
+
+`ServiceNow` `Cloud Platform` `Workflow Automation` `Low-code` `Process Design`
+
+---
+
+### 🍅 [Pomodoro Timer](https://github.com/samuelo21423/Pomodoro-Timer)
+> A minimal, distraction-free productivity timer built around the Pomodoro Technique. Simple on the surface, but a good exercise in state management, UI feedback, and keeping interfaces clean.
+
+`JavaScript` `HTML` `CSS` `UX`
+
+---
+
+### 🧠 [Therapist Client Management System](https://github.com/samuelo21423/Therapist-Client-Management-System)
+> A full-stack management platform for therapist workflows — handling client records, session tracking, and appointment management. Built to solve a real organisational problem with a proper software solution.
+
+`JavaScript` `Full Stack` `CRUD` `Database`
+
+---
+
+### ✈️ [Travel Blog App](https://github.com/samuelo21423/Travel-Blog-App)
+> A dynamic travel journaling web app where users can document and share travel experiences. Focused on content management, dynamic rendering, and clean UX.
+
+`JavaScript` `Web App` `Dynamic Rendering`
+
+---
+
+### 🌦️ [Weather App](https://github.com/samuelo21423/Weather-App)
+> A clean, real-time weather dashboard that pulls live data via API integration — displaying temperature, humidity, UV index, and wind speed. Built with a focus on responsive design and handling async data gracefully.
+
+`JavaScript` `HTML/CSS` `REST API` `Async/Await`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelo21423&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelo21423&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=ffffff&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelo21423&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelo21423&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=06b6d4&currStreakLabel=ffffff"/>
+  <img src="https://streak-stats.demolab.com/?user=samuelo21423&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=06b6d4&currStreakLabel=ffffff"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/samuelo21423/samuelo21423/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelo21423/samuelo21423/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelo21423/samuelo21423/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/samuelo21423/samuelo21423/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 ---
 
@@ -136,6 +158,21 @@ Outside of work I build projects across game dev, web apps, and cloud — whatev
 
 ---
 
+## 🤝 Let's Connect
+
+I'm always open to interesting conversations, collaborations, or opportunities. Whether you want to talk tech, work on something together, or just connect — feel free to reach out.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:6e40c9&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:6e40c9&height=100&section=footer" width="100%"/>
 </p>
