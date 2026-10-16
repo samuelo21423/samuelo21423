@@ -24,7 +24,7 @@
 ```yaml
 Name        : Samuel Ogwu
 Role        : Software Engineer  |  Software Quality Engineer
-Currently   : @ ServiceNow
+Prev        : @ ServiceNow
 Interests   : Software Quality  ·  Cloud  ·  DevOps  ·  AI/ML  ·  Automation
 Certs       : ServiceNow CSA ✅  |  ServiceNow CAD ✅
 Always      : Building something, breaking something, fixing it better
