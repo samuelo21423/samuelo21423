@@ -76,13 +76,6 @@ Currently working in the quality engineering space at **ServiceNow Dublin**, whe
 
 ## 🚀 Featured Projects
 
-### 🎮 [SeaWorld Plastic Collector](https://github.com/samuelo21423/SeaWorld-Plastic-Collector)
-> A fully playable **2D game** built from scratch in Processing. Players navigate the ocean collecting plastic waste while dodging marine life — with an oxygen-based countdown, score tracking, and increasing difficulty. A project that pushed my understanding of game loops, collision detection, and real-time state management.
-
-`Processing` `Game Dev` `OOP` `Physics`
-
----
-
 ### ☁️ [ServiceNow Loaner Management System](https://github.com/samuelo21423/servicenow-loaner-management-system)
 > A scoped cloud platform application that fully automates equipment loan management — replacing a manual, email-based process with an end-to-end automated workflow covering requests, approvals, tracking, and returns. Built on the ServiceNow platform with custom business logic and a user-friendly portal interface.
 
@@ -90,10 +83,17 @@ Currently working in the quality engineering space at **ServiceNow Dublin**, whe
 
 ---
 
-### 🍅 [Pomodoro Timer](https://github.com/samuelo21423/Pomodoro-Timer)
-> A minimal, distraction-free productivity timer built around the Pomodoro Technique. Simple on the surface, but a good exercise in state management, UI feedback, and keeping interfaces clean.
+### ⚙️ [C++ Concurrency & CPU Affinity Benchmarks](https://github.com/samuelo21423/cpp-concurrency-and-cpu-affinity)
+> A systems-focused C++ benchmarking project exploring how different synchronisation strategies and CPU scheduling decisions affect correctness and performance in multithreaded workloads. Compares unsynchronised, mutex-protected, and atomic counters using repeated trials, correctness tracking, and runtime statistics, with planned extensions into CPU affinity, hardware-level analysis, and x86 atomic instructions.
 
-`JavaScript` `HTML` `CSS` `UX`
+`C++` `Multithreading` `Concurrency` `std::mutex` `std::atomic` `CPU Affinity` `Performance Benchmarking`
+
+---
+
+### 🎮 [SeaWorld Plastic Collector](https://github.com/samuelo21423/SeaWorld-Plastic-Collector)
+> A fully playable **2D game** built from scratch in Processing. Players navigate the ocean collecting plastic waste while dodging marine life — with an oxygen-based countdown, score tracking, and increasing difficulty. A project that pushed my understanding of game loops, collision detection, and real-time state management.
+
+`Processing` `Game Dev` `OOP` `Physics`
 
 ---
 
@@ -101,6 +101,13 @@ Currently working in the quality engineering space at **ServiceNow Dublin**, whe
 > A full-stack management platform for therapist workflows — handling client records, session tracking, and appointment management. Built to solve a real organisational problem with a proper software solution.
 
 `JavaScript` `Full Stack` `CRUD` `Database`
+
+---
+
+### 🍅 [Pomodoro Timer](https://github.com/samuelo21423/Pomodoro-Timer)
+> A minimal, distraction-free productivity timer built around the Pomodoro Technique. Simple on the surface, but a good exercise in state management, UI feedback, and keeping interfaces clean.
+
+`JavaScript` `HTML` `CSS` `UX`
 
 ---
 
