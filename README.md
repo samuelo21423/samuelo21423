@@ -141,7 +141,7 @@ Currently working in the quality engineering space at **ServiceNow Dublin**, whe
 | Certification | Status |
 |---|---|
 | ServiceNow Certified System Administrator (CSA) | ✅ Passed |
-| ServiceNow Certified Application Developer (CAD) | 🔄 In Progress |
+| ServiceNow Certified Application Developer (CAD) | ✅ Passed |
 
 ---
 
